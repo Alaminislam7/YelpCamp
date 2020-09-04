@@ -1,0 +1,2 @@
+yelpCamp passport authenticate:   npm install passport passport-local passport-local-mongoose express-session --save
+
